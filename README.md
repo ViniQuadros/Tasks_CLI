@@ -1,6 +1,6 @@
 # TASKS CLI
 
-A brief description of what this project does and who it's for
+A JavaScript and Node.js program that uses CLI for a to-do list.
 
 ## Build with
 
